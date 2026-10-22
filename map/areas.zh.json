@@ -1,0 +1,59 @@
+{
+  "areas": [
+    {
+      "uid": "AREA_2",
+      "shape": "polygon",
+      "x": 0.0,
+      "y": 0.0,
+      "radius": 0.0,
+      "width": 0.0,
+      "height": 0.0,
+      "points": [
+        [
+          1370.2721125281512,
+          2665.667781798873
+        ],
+        [
+          1347.9954246625591,
+          2679.426912539386
+        ],
+        [
+          1402.4024330206316,
+          2761.8712345463828
+        ],
+        [
+          1432.4120899716477,
+          2741.5075387581933
+        ],
+        [
+          1389.9280135860265,
+          2676.4785273807047
+        ]
+      ],
+      "attribute": "DEPLOYABLES",
+      "name_jp": "",
+      "name_en": "",
+      "importance": "5",
+      "memo_jp": "",
+      "memo_en": "",
+      "categories": [
+        {
+          "cat_id": "MEDICAL_CONTAINER",
+          "category": "医療品コンテナ",
+          "cat_name_en": "医疗容器",
+          "item_id": "",
+          "item_name_jp": "",
+          "item_name_en": "",
+          "qty": "MANY",
+          "attributes": {
+            "special_rule_enabled_1": false
+          }
+        }
+      ],
+      "fill_color_override": "",
+      "show_center_icon": true,
+      "updated_at": "2026-04-15T17:18:02",
+      "category": "建物"
+    }
+  ]
+}
